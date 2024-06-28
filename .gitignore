@@ -1,0 +1,11 @@
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Jetbrains IDE
+.clwb/
+.idea/
+*.iml
+
+# binaries
+build/
